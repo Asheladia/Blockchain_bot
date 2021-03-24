@@ -1,7 +1,6 @@
 # Blockchain_bot
 use smart contracts to leverage an automated system that serves as a trading platform.
-#Blockchain_project
-In this project we discuss how to use smart contracts to leverage an automated system that serves as a trading platform.
+
 
 ## Initial Outcomes of Project:
 - Terms and Conditions Smart Contract
